@@ -9,3 +9,5 @@
 Unlimited is holding IT company, which is engaged in the study of new technologies. In the future, our company plans to engage in advanced technologies such as AI and quantum computing.
 
 At the moment, the company is engaged in the introduction of mathematical methods in game development.
+
+![Metrics](https://metrics.lecoq.io/unlimited-industries?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FBishkek)
