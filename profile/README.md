@@ -12,5 +12,5 @@ At the moment, the company is engaged in the introduction of mathematical method
 
 * [Unlimited Gamedev](https://unlimited-industries.github.io/unlimited-gamedev)
 
-![Metrics](/github-industries.svg)
+![Metrics](/github-metrics.svg)
 
