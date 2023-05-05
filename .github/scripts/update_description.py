@@ -20,7 +20,7 @@ def increase_progress_bar(description: str):
 
 
 def main() -> typing.NoReturn:
-    token = os.getenv("GITHUB_TOKEN")
+    token = os.getenv("ORG_DESCRIPTION_EDIT_SECRET")
     organization = github.Github(token).get_organization(ORG_NAME)
 
     current_description = organization.description
