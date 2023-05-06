@@ -24,5 +24,5 @@ jobs:
 
     - name: Update organization description
       env:
-        GITHUB_TOKEN: ${{ secrets.ORG_DESCRIPTION_EDIT_SECRET }}
+        ORG_DESCRIPTION_EDIT_SECRET: ${{ secrets.ORG_DESCRIPTION_EDIT_SECRET }}
       run: python .github/scripts/update_description.py
