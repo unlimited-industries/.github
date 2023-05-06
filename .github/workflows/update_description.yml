@@ -2,7 +2,7 @@ name: Update Organization Description
 
 on:
   schedule:
-    - cron: '* * * * *'
+    - cron: '0 0 1 * *'
 
 jobs:
   update_description:
