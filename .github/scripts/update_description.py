@@ -25,7 +25,6 @@ def main() -> typing.NoReturn:
 
     current_description = organization.description
     new_description = increase_progress_bar(current_description)
-    print(new_description)
     organization.edit(description=new_description)
 
 
